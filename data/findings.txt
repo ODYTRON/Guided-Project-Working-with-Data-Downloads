@@ -1,0 +1,34 @@
+(python3) /home/dq/scripts$ python exploration.py                               
+NO     992                                                                      
+YES      8                                                                      
+Name: JJ, dtype: int64                                                          
+NO     948                                                                      
+YES     52                                                                      
+Name: SCH_STATUS_MAGNET, dtype: int64                                           
+     TOT_ENR_F  TOT_ENR_M                                                       
+JJ                                                                              
+NO      252915       266702                                                     
+YES         71        427                                                       
+                   TOT_ENR_F  TOT_ENR_M                                         
+SCH_STATUS_MAGNET                                                               
+NO                    232487     245629                                         
+YES                    20499      21500  
+
+# Findings
+
+1. We have only 8 JJ schools out of 1000. The SCH_STATUS_MAGNET schools are 52 out of 1000.
+2. We have 71 female  students out of 252986 in JJ schools . We have 427 male students out of 267129 in JJ schools.
+
+3.There are 20499 female students out of 252986 in magnet schools  and 21500 male students out of  267129 in magnet schools.  
+
+The ratio of total Male population is 51.35960316468473
+The ratio of total Female population is 48.64039683531527 
+The ratio of total Asian population is 5.043692260365496                        
+The ratio of total Hispanic population is 26.157868932832162                    
+The ratio of total Hawaiian or Pasific Islander population is 0.36895686530863364
+The ratio of total Two or more races population is 3.047787508531767                               The ratio of total Black population is 14.120723301577536                       
+The ratio of total American Indian population is 1.4148794016707842             
+The ratio of total White population is 49.84609172971362                        
+
+
+   
